@@ -1,2 +1,2 @@
 # Layoffs-EDA-and-Prediction
-Conducted a comprehensive EDA to identify seasonal patterns in layoffs and developed an ARIMA model with an MAPE of 0.37 to accurately forecast future layoff events. The model was able to provide 6 months of advance warning, allowing the company to implement cost-saving measures and reduce the impact of layoffs.![image](https://github.com/user-attachments/assets/be8d5aa7-ee9a-4f83-9bec-0784a1f2b823)
+Conducted a comprehensive EDA to identify seasonal patterns in layoffs and developed an ARIMA model with an MAPE of 0.37 to accurately forecast future layoff events. The model was able to provide 6 months of advance warning, allowing the company to implement cost-saving measures and reduce the impact of layoffs.
