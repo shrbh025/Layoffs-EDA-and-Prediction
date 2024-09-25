@@ -5,5 +5,5 @@ Conducted a comprehensive EDA to identify seasonal patterns in layoffs and devel
 <img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/ByMonth.png" width="1600" height="600">
 <img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/Location.png" width="1600" height="600">
 <img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/Industries.png" width="1600" height="600">
-<img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/ImpactedCompanies.png" width="1600" height="600">
-<img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/Future%20Prediction.png" width="1600" height="600">
+<img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/ImpactedCompanies.png" width="1800" height="500">
+<img src="https://github.com/shrbh025/Layoffs-EDA-and-Prediction/blob/main/Future%20Prediction.png" width="1800" height="500">
